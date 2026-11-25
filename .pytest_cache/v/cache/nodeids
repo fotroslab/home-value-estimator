@@ -1,0 +1,8 @@
+[
+  "tests/test_metrics.py::test_metrics_exist",
+  "tests/test_metrics.py::test_sample_file",
+  "tests/test_prediction.py::test_predict_range",
+  "tests/test_prediction.py::test_validate_rejects",
+  "tests/test_preprocessing.py::test_clean_clip",
+  "tests/test_preprocessing.py::test_preprocessor_fit_transform"
+]
