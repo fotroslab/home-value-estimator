@@ -559,4 +559,4 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.caption("No Persian text, currency, or terminology is used in this app. All figures are USD; areas in sq ft; locations are U.S. ZIP codes.")
+
