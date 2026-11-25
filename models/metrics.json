@@ -1,0 +1,35 @@
+{
+  "baseline_median": {
+    "rmse": 159872.87134466268,
+    "mae": 113263.31982758621,
+    "r2": -0.13238069894018434,
+    "median_abs_pct_error": 0.27902490973753485
+  },
+  "ridge": {
+    "rmse": 63173.97700113478,
+    "mae": 46877.19268682645,
+    "r2": 0.8231849027616673,
+    "median_abs_pct_error": 0.12060403851569375
+  },
+  "xgboost": {
+    "rmse": 63280.35398131082,
+    "mae": 46271.8984375,
+    "r2": 0.8225889205932617,
+    "median_abs_pct_error": 0.11876771534035258
+  },
+  "n_train": 4640,
+  "n_test": 1160,
+  "y_test_mean": 341506.675,
+  "y_test_median": 308264.0,
+  "interval": {
+    "q10_residual": -19217.8984375,
+    "q90_residual": 97390.35000000005,
+    "empirical_coverage_80": 0.8,
+    "method": "Empirical residual quantiles (10th/90th) from holdout; applied as prediction \u00b1 quantile",
+    "abs80": 71149.71875,
+    "abs90": 99358.28125,
+    "bias_mean": 35555.48803205819,
+    "symmetric_80_low_offset": -71149.71875,
+    "symmetric_80_high_offset": 71149.71875
+  }
+}

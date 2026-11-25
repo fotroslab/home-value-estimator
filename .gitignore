@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data - large files should not be committed (sample is OK)
+data/raw/
+data/cache/
+data/*.csv
+!data/sample_properties.csv
+!data/README.md
+
+# Models - large binaries
+models/*.pkl
+models/*.joblib
+!models/README.md
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key

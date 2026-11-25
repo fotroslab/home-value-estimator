@@ -1,0 +1,18 @@
+{
+  "zip_code": 15241,
+  "municipality": "Wilkinsburg",
+  "living_area_sqft": 2081,
+  "lot_area_sqft": 3462,
+  "bedrooms": 4,
+  "full_baths": 2,
+  "half_baths": 0,
+  "total_rooms": 8,
+  "year_built": 1947,
+  "age_at_sale": 77,
+  "condition": "Average",
+  "grade": "Good",
+  "exterior_finish": "Brick",
+  "stories": 1.0,
+  "has_basement_garage": 1,
+  "fireplaces": 1
+}

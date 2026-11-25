@@ -1,0 +1,81 @@
+feature,mean_abs_shap
+living_area_sqft,84442.39
+grade_Below Average,12931.5625
+grade_Poor,6334.9062
+zip_code_15232,6025.8945
+condition_Fair,5598.013
+exterior_finish_Brick,5312.8936
+bedrooms,5214.1377
+zip_code_15237,4774.33
+zip_code_15217,4360.511
+exterior_finish_Stone,4191.799
+zip_code_15241,4053.7866
+year_built,3707.3625
+condition_Very Good,3490.4832
+full_baths,3255.2085
+zip_code_15090,3229.7432
+zip_code_15213,3170.044
+age_at_sale,3160.0789
+has_basement_garage,2893.0115
+zip_code_15208,2816.7764
+condition_Excellent,2759.598
+zip_code_15221,2757.0637
+condition_Poor,2745.6025
+grade_Excellent,2703.4238
+zip_code_15222,2590.8113
+grade_Good,2561.6624
+stories,2504.474
+grade_Average,2287.1838
+condition_Average,2156.0962
+half_baths,2138.9646
+grade_Very Good,2074.8057
+zip_code_15120,2060.1772
+zip_code_15143,1910.8927
+zip_code_15102,1820.3013
+zip_code_15210,1799.6133
+zip_code_15131,1769.8824
+lot_area_sqft,1765.5023
+zip_code_15006,1695.2723
+condition_Good,1678.3411
+zip_code_15228,1670.5776
+zip_code_15235,1642.5269
+zip_code_15101,1522.5754
+zip_code_15146,1354.2672
+total_rooms,1288.6467
+zip_code_15132,1272.0438
+exterior_finish_Block,1257.9005
+exterior_finish_Vinyl/Aluminum,1183.3286
+zip_code_15206,1180.491
+zip_code_15116,1134.935
+zip_code_15136,1118.4526
+fireplaces,961.8887
+zip_code_15139,943.5823
+zip_code_15044,843.75665
+zip_code_15129,830.288
+zip_code_15224,768.7106
+zip_code_15226,703.2919
+zip_code_15108,515.1139
+zip_code_15202,492.2003
+municipality_Fox Chapel,378.28702
+exterior_finish_Other,371.81152
+zip_code_15227,362.89874
+municipality_Pittsburgh (1st-31st Wards),298.3661
+municipality_Ross,248.67305
+exterior_finish_Stucco,240.31738
+municipality_Collier,238.19003
+exterior_finish_Frame,234.48515
+municipality_Baldwin,215.7246
+municipality_Monroeville,200.21617
+municipality_Penn Hills,194.45529
+municipality_McCandless,168.67723
+municipality_Shaler,158.62035
+municipality_Upper St. Clair,154.38853
+municipality_Wilkinsburg,149.80658
+municipality_White Oak,149.15149
+municipality_Bethel Park,140.61089
+municipality_Scott,122.12613
+municipality_Hampton,111.228134
+municipality_Mt. Lebanon,104.33689
+zip_code_15219,102.39405
+municipality_Franklin Park,91.656944
+municipality_South Park,75.73118
